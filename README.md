@@ -1,3 +1,2 @@
  **credits to** [BLeeEZ](https://github.com/BLeeEZ/Amperfy/)
-**Special thanks:** [Dirk Hildebrand](https://apps.apple.com/us/developer/dirk-hildebrand/id654444924)
 original repo at https://github.com/BLeeEZ/Amperfy/
