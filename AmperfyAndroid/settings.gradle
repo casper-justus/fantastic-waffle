@@ -18,3 +18,5 @@ include ':core'
 include ':data'
 include ':domain'
 include ':player'
+
+System.properties['android.sdk.path'] = '/usr/local/lib/android/sdk'
