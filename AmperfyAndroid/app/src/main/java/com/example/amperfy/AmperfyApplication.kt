@@ -1,7 +1,7 @@
 package com.example.amperfy
 
-import android.app.Application
+import androidx.multidex.MultiDexApplication
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class AmperfyApplication : Application()
+class AmperfyApplication : MultiDexApplication()
